@@ -1,5 +1,5 @@
 <h1>Probability and Statistics Project: Customer Analysis</h1>
-# Project Overview
+Project Overview
 
 In this project, we will analyze a dataset containing customer information and purchasing behavior to identify patterns, trends, and correlations that can help optimize marketing efforts and increase offer acceptance rates.
 
